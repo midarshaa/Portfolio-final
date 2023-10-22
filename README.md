@@ -193,7 +193,6 @@ footer ul li {
 
             </div>
             <div class="rightSection">
-                <img class = "" src ="" alt="my picture"> </div>
         </section>
  <hr>
 
