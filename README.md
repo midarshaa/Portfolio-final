@@ -193,6 +193,7 @@ footer ul li {
 
             </div>
             <div class="rightSection">
+            <img src"" alt"My Profile">
         </section>
  <hr>
 
