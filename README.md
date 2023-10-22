@@ -289,5 +289,4 @@ footer ul li {
     });
   </script>
 </body>
-</body>
 </html>
