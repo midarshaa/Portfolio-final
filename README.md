@@ -166,6 +166,9 @@ footer ul li {
     font-size: 1.3rem;
     color: #76c1f2; 
   }
+  .mypic{
+  border-radius: 50%:
+  }
   </style>
 </head>
 <body>
@@ -193,7 +196,7 @@ footer ul li {
 
             </div>
             <div class="rightSection">
-                <img src="pngitem-girl.png" alt=""> </div>
+                <img class = "mypic" src ="WhatsApp Image 2023-10-20 at 7.09.15 PM" alt="my picture"> </div>
         </section>
  <hr>
 
